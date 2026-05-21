@@ -5,7 +5,7 @@
 - 📫 How to reach me: contact@qazinasir.com
 - website: https://qazinasir.com
 - blog: https://blog.qazinasir.com
-- research: https://research.qazinasir.com
+- research: https://publications.qazinasir.com
 
 <!---
 qazinasir79/qazinasir79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
