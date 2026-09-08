@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on React Js, Next Js & Python
 - 📫 How to reach me: contact@qazinasir.com
 - website: https://qazinasir.com
-- blog: https://blog.qazinasir.com
+- blog: https://blogs.qazinasir.com
 - research: https://publications.qazinasir.com
 
 <!---
